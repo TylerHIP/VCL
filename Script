@@ -1,9 +1,3 @@
-local url = ""
-setclipboard()
-print("Game is working!")
-
-
-
 wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
 Title = "Welcome"; -- the title (ofc)
